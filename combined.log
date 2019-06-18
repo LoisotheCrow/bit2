@@ -1,0 +1,232 @@
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Created a localbitcoin API handler."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"info","message":"------------> NEXT ------------>"}
+{"level":"info","message":"Got request on /bots/activate with id fc85efcd-c8e7-4ef0-9c42-4064587ab22e."}
+{"level":"info","message":"Request headers: {\"authorization\":\"Basic cm9vdDpFTFd8M1h3eyxxY3lxVlNtfHhIVUxCd3JtUylBTG0=\",\"user-agent\":\"PostmanRuntime/7.13.0\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"f3fe9ca8-4ef0-4caa-afb2-a0d66b70341f\",\"host\":\"localhost:8000\",\"accept-encoding\":\"gzip, deflate\",\"content-length\":\"0\",\"connection\":\"keep-alive\"}"}
+{"level":"error","message":"Failed to activate bots by request: API.activateAll is not a function."}
+{"level":"info","message":"Successfully handled request fc85efcd-c8e7-4ef0-9c42-4064587ab22e."}
+{"level":"info","message":"--------------------------------"}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Created a localbitcoin API handler."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"info","message":"------------> NEXT ------------>"}
+{"level":"info","message":"Got request on /bots/activate with id b79e9c38-dd6a-49f2-b651-c22781809e90."}
+{"level":"info","message":"Request headers: {\"authorization\":\"Basic cm9vdDpFTFd8M1h3eyxxY3lxVlNtfHhIVUxCd3JtUylBTG0=\",\"user-agent\":\"PostmanRuntime/7.13.0\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"5cb57c56-c8d2-4b71-9565-0b7b4e92750e\",\"host\":\"localhost:8000\",\"accept-encoding\":\"gzip, deflate\",\"content-length\":\"0\",\"connection\":\"keep-alive\"}"}
+{"level":"error","message":"Failed to activate bots by request: API.activateAll is not a function."}
+{"level":"error","message":"Error while handling request b79e9c38-dd6a-49f2-b651-c22781809e90."}
+{"level":"info","message":"--------------------------------"}
+{"level":"info","message":"------------> NEXT ------------>"}
+{"level":"info","message":"Got request on /bots with id aaf692af-15b8-4b73-8d83-2b7f77aa1654."}
+{"level":"info","message":"Request headers: {\"authorization\":\"Basic cm9vdDpFTFd8M1h3eyxxY3lxVlNtfHhIVUxCd3JtUylBTG0=\",\"user-agent\":\"PostmanRuntime/7.13.0\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"1b7edf03-9050-4bfe-bb98-26fa2f4ac67a\",\"host\":\"localhost:8000\",\"accept-encoding\":\"gzip, deflate\",\"connection\":\"keep-alive\"}"}
+{"level":"error","message":"Error while handling request aaf692af-15b8-4b73-8d83-2b7f77aa1654."}
+{"level":"info","message":"--------------------------------"}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Created a localbitcoin API handler."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"info","message":"------------> NEXT ------------>"}
+{"level":"info","message":"Got request on /bots with id 5c1af87f-02f6-40ce-b662-d5b48946912f."}
+{"level":"info","message":"Request headers: {\"authorization\":\"Basic cm9vdDpFTFd8M1h3eyxxY3lxVlNtfHhIVUxCd3JtUylBTG0=\",\"user-agent\":\"PostmanRuntime/7.13.0\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"af6b5692-c76e-431b-bb94-096703461005\",\"host\":\"localhost:8000\",\"accept-encoding\":\"gzip, deflate\",\"connection\":\"keep-alive\"}"}
+{"level":"error","message":"Error while handling request 5c1af87f-02f6-40ce-b662-d5b48946912f."}
+{"level":"info","message":"--------------------------------"}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Created a localbitcoin API handler."}
+{"level":"info","message":"Initialized API service."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Created a localbitcoin API handler."}
+{"level":"info","message":"Initialized API service."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code undefined (undefined) (read ECONNRESET)."}
+{"level":"info","message":"DDOS defence could be active. Attempting to switch proxies..."}
+{"level":"warn","message":"No proxies found!"}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Created a localbitcoin API handler."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"info","message":"Initialized API service."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Created a localbitcoin API handler."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"info","message":"Initialized API service."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code undefined (undefined) (read ECONNRESET)."}
+{"level":"info","message":"DDOS defence could be active. Attempting to switch proxies..."}
+{"level":"warn","message":"No proxies found!"}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code undefined (undefined) (read ECONNRESET)."}
+{"level":"info","message":"DDOS defence could be active. Attempting to switch proxies..."}
+{"level":"warn","message":"No proxies found!"}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Created a localbitcoin API handler."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"info","message":"Initialized API service."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"------------> NEXT ------------>"}
+{"level":"info","message":"Got request on /bots with id 2386273c-8687-4ee5-9908-c2dc8f41914f."}
+{"level":"info","message":"Request headers: {\"authorization\":\"Basic cm9vdDpFTFd8M1h3eyxxY3lxVlNtfHhIVUxCd3JtUylBTG0=\",\"user-agent\":\"PostmanRuntime/7.13.0\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"a1cad5be-141c-4592-92fb-462d61fa0033\",\"host\":\"localhost:8000\",\"accept-encoding\":\"gzip, deflate\",\"connection\":\"keep-alive\"}"}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Starting service..."}
+{"level":"info","message":"Created a localbitcoin API handler."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"info","message":"Initialized API service."}
+{"level":"info","message":"Creating Express application..."}
+{"level":"info","message":"Created Express application."}
+{"level":"info","message":"Connected json and urlencoded parsers."}
+{"level":"info","message":"Connecting static directory..."}
+{"level":"info","message":"Connected static directory."}
+{"level":"info","message":"Retrieving configuration..."}
+{"level":"info","message":"Successfully retrieved server configuration."}
+{"level":"info","message":"Initialized server, listening on port 8000."}
+{"level":"info","message":"Started service."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"------------> NEXT ------------>"}
+{"level":"info","message":"Got request on /bots with id 15f99578-5386-475b-a0fd-0549233ce590."}
+{"level":"info","message":"Request headers: {\"authorization\":\"Basic cm9vdDpFTFd8M1h3eyxxY3lxVlNtfHhIVUxCd3JtUylBTG0=\",\"user-agent\":\"PostmanRuntime/7.13.0\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"2de2549e-c3d0-44a1-8fa1-6ef0b5cfe52e\",\"host\":\"localhost:8000\",\"accept-encoding\":\"gzip, deflate\",\"connection\":\"keep-alive\"}"}
+{"level":"warn","message":"API not ready."}
+{"level":"info","message":"--------------------------------"}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
+{"level":"info","message":"Preparing to initialize bots."}
+{"level":"error","message":"[2] Failed to access get /api/ads/: code 400 (BAD REQUEST) (Request failed with status code 400)."}
+{"level":"error","message":"Error while initializing bots: API error."}
